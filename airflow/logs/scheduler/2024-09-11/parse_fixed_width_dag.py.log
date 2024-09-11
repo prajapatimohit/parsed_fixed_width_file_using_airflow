@@ -1378,3 +1378,199 @@
 [2024-09-11T10:56:13.380+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:56:13.380+0000] {dag.py:3229} INFO - Sync 1 DAGs
 [2024-09-11T10:56:13.419+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:56:13.418+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
 [2024-09-11T10:56:13.540+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.311 seconds
+[2024-09-11T10:56:43.976+0000] {processor.py:186} INFO - Started process (PID=819) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:56:44.221+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T10:56:44.225+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:56:44.224+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:56:44.560+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:56:44.906+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:56:44.906+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T10:56:45.011+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:56:45.010+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T10:56:45.175+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 1.208 seconds
+[2024-09-11T10:57:16.390+0000] {processor.py:186} INFO - Started process (PID=821) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:57:16.393+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T10:57:16.395+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:57:16.394+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:57:16.450+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:57:16.517+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:57:16.516+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T10:57:16.564+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:57:16.563+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T10:57:16.650+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.272 seconds
+[2024-09-11T10:57:47.826+0000] {processor.py:186} INFO - Started process (PID=823) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:57:47.828+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T10:57:47.830+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:57:47.830+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:57:47.867+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:57:47.913+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:57:47.913+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T10:57:47.939+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:57:47.938+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T10:57:48.037+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.219 seconds
+[2024-09-11T10:58:19.157+0000] {processor.py:186} INFO - Started process (PID=825) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:58:19.159+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T10:58:19.162+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:58:19.161+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:58:19.222+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:58:19.282+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:58:19.281+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T10:58:19.312+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:58:19.311+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T10:58:19.410+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.262 seconds
+[2024-09-11T10:58:49.833+0000] {processor.py:186} INFO - Started process (PID=827) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:58:49.835+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T10:58:49.838+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:58:49.837+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:58:49.888+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:58:49.947+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:58:49.946+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T10:58:49.989+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:58:49.989+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T10:58:50.112+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.289 seconds
+[2024-09-11T10:59:20.692+0000] {processor.py:186} INFO - Started process (PID=829) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:59:20.694+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T10:59:20.696+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:59:20.695+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:59:20.734+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:59:20.779+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:59:20.778+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T10:59:20.809+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:59:20.809+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T10:59:20.920+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.238 seconds
+[2024-09-11T10:59:51.404+0000] {processor.py:186} INFO - Started process (PID=831) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:59:51.407+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T10:59:51.410+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:59:51.409+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:59:51.460+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T10:59:51.530+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:59:51.529+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T10:59:51.562+0000] {logging_mixin.py:190} INFO - [2024-09-11T10:59:51.562+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T10:59:51.840+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.449 seconds
+[2024-09-11T11:00:22.545+0000] {processor.py:186} INFO - Started process (PID=833) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:00:22.547+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:00:22.550+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:00:22.549+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:00:22.587+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:00:22.641+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:00:22.640+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:00:22.669+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:00:22.669+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:00:22.783+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.246 seconds
+[2024-09-11T11:00:53.227+0000] {processor.py:186} INFO - Started process (PID=835) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:00:53.228+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:00:53.231+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:00:53.230+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:00:53.270+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:00:53.322+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:00:53.321+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:00:53.352+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:00:53.351+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:00:53.449+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.231 seconds
+[2024-09-11T11:01:23.921+0000] {processor.py:186} INFO - Started process (PID=837) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:01:23.923+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:01:23.925+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:01:23.924+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:01:23.957+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:01:24.010+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:01:24.010+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:01:24.059+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:01:24.058+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:01:24.155+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.242 seconds
+[2024-09-11T11:01:54.360+0000] {processor.py:186} INFO - Started process (PID=839) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:01:54.362+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:01:54.365+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:01:54.364+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:01:54.409+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:01:54.464+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:01:54.464+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:01:54.491+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:01:54.491+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:01:54.586+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.238 seconds
+[2024-09-11T11:02:25.164+0000] {processor.py:186} INFO - Started process (PID=841) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:02:25.166+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:02:25.168+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:02:25.167+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:02:25.206+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:02:25.253+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:02:25.253+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:02:25.281+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:02:25.281+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:02:25.412+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.257 seconds
+[2024-09-11T11:02:55.756+0000] {processor.py:186} INFO - Started process (PID=843) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:02:55.758+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:02:55.760+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:02:55.760+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:02:55.809+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:02:55.856+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:02:55.856+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:02:55.892+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:02:55.892+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:02:55.982+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.234 seconds
+[2024-09-11T11:03:26.182+0000] {processor.py:186} INFO - Started process (PID=845) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:03:26.184+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:03:26.188+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:03:26.186+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:03:26.230+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:03:26.286+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:03:26.286+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:03:26.323+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:03:26.322+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:03:26.409+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.238 seconds
+[2024-09-11T11:03:56.553+0000] {processor.py:186} INFO - Started process (PID=847) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:03:56.554+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:03:56.557+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:03:56.556+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:03:56.603+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:03:56.650+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:03:56.650+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:03:56.677+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:03:56.677+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:03:56.776+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.233 seconds
+[2024-09-11T11:04:27.195+0000] {processor.py:186} INFO - Started process (PID=849) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:04:27.197+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:04:27.200+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:04:27.199+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:04:27.242+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:04:27.292+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:04:27.291+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:04:27.327+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:04:27.326+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:04:27.588+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.402 seconds
+[2024-09-11T11:04:58.065+0000] {processor.py:186} INFO - Started process (PID=852) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:04:58.066+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:04:58.070+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:04:58.069+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:04:58.109+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:04:58.155+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:04:58.154+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:04:58.359+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:04:58.358+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:04:58.463+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.406 seconds
+[2024-09-11T11:05:28.987+0000] {processor.py:186} INFO - Started process (PID=854) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:05:29.021+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:05:29.024+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:05:29.023+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:05:29.098+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:05:29.204+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:05:29.204+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:05:29.252+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:05:29.252+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:05:29.366+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.387 seconds
+[2024-09-11T11:05:59.874+0000] {processor.py:186} INFO - Started process (PID=856) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:05:59.876+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:05:59.879+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:05:59.878+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:05:59.949+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:06:00.040+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:06:00.039+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:06:00.073+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:06:00.072+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:06:00.174+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.321 seconds
+[2024-09-11T11:06:30.555+0000] {processor.py:186} INFO - Started process (PID=858) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:06:30.567+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:06:30.573+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:06:30.572+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:06:30.717+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:06:30.843+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:06:30.837+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:06:30.923+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:06:30.921+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:06:31.466+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.932 seconds
+[2024-09-11T11:07:01.997+0000] {processor.py:186} INFO - Started process (PID=860) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:07:02.001+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:07:02.014+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:07:02.013+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:07:02.139+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:07:02.209+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:07:02.209+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:07:02.240+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:07:02.240+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:07:02.364+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.389 seconds
+[2024-09-11T11:07:32.983+0000] {processor.py:186} INFO - Started process (PID=862) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:07:33.010+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:07:33.013+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:07:33.012+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:07:33.135+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:07:33.268+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:07:33.267+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:07:33.349+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:07:33.349+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:07:33.489+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.524 seconds
+[2024-09-11T11:08:05.060+0000] {processor.py:186} INFO - Started process (PID=864) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:08:05.062+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:08:05.064+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:08:05.063+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:08:05.121+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:08:05.203+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:08:05.201+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:08:05.249+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:08:05.249+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:08:05.385+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.334 seconds
+[2024-09-11T11:08:35.695+0000] {processor.py:186} INFO - Started process (PID=866) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:08:35.698+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:08:35.702+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:08:35.700+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:08:35.784+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:08:35.974+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:08:35.974+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:08:36.015+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:08:36.014+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:08:36.218+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.548 seconds
+[2024-09-11T11:09:07.411+0000] {processor.py:186} INFO - Started process (PID=868) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:09:07.436+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:09:07.438+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:09:07.438+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:09:07.484+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:09:07.550+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:09:07.545+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:09:07.597+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:09:07.596+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:09:07.714+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.315 seconds
+[2024-09-11T11:09:39.681+0000] {processor.py:186} INFO - Started process (PID=870) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:09:39.693+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:09:39.701+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:09:39.700+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:09:39.813+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:09:40.125+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:09:40.125+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:09:40.290+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:09:40.290+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:09:40.545+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.878 seconds
+[2024-09-11T11:10:11.198+0000] {processor.py:186} INFO - Started process (PID=872) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:10:11.207+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:10:11.209+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:10:11.208+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:10:11.255+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:10:11.357+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:10:11.356+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:10:11.417+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:10:11.417+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:10:11.793+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.607 seconds
+[2024-09-11T11:10:42.094+0000] {processor.py:186} INFO - Started process (PID=874) to work on /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:10:42.096+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/parse_fixed_width_dag.py for tasks to queue
+[2024-09-11T11:10:42.100+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:10:42.099+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:10:42.192+0000] {processor.py:925} INFO - DAG(s) 'parse_fixed_width_to_csv' retrieved from /opt/airflow/dags/parse_fixed_width_dag.py
+[2024-09-11T11:10:42.323+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:10:42.322+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-11T11:10:42.855+0000] {logging_mixin.py:190} INFO - [2024-09-11T11:10:42.855+0000] {dag.py:4156} INFO - Setting next_dagrun for parse_fixed_width_to_csv to None, run_after=None
+[2024-09-11T11:10:43.020+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/parse_fixed_width_dag.py took 0.956 seconds

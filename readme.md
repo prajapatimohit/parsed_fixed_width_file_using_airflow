@@ -8,23 +8,21 @@
    ```bash
    git clone <repository-url>
 
-Navigate to the project directory:
+3. **Navigate to the project directory:**
+    ```bash
+    cd airflow_project
 
-bash
-Copy code
-cd airflow_project
-Build and run the Docker containers:
+4. **Build and run the Docker containers:**
+    ```bash
+    docker-compose up -d --build
 
-bash
-Copy code
-docker-compose up -d --build
-Access the Airflow UI:
+5. **Access the Airflow UI:**
+    Go to http://localhost:8080 in your browser.
+    Use the default credentials airflow/airflow to log in.
 
-Go to http://localhost:8080 in your browser.
-Use the default credentials airflow/airflow to log in.
-Trigger the DAG:
-
+6. **Trigger the DAG:**
 In the Airflow UI, navigate to the DAGs page and manually trigger the parse_fixed_width_to_csv DAG.
-Check the output:
+
+7. **Check the output:**
 
 The output CSV file will be available inside the dags folder of the Airflow container at /opt/airflow/dags/output_file.csv.
